@@ -1,6 +1,6 @@
 # MongoDB to Amazon S3 Backup Script
 
-The backup script is based on (webcast-io's repo)[https://github.com/webcast-io/docker-mongodb-s3-backup]
+The backup script is based on [webcast-io's repo](https://github.com/webcast-io/docker-mongodb-s3-backup)
 
 ## Features
 - Backups all MongoDB databases to Amazon S3
